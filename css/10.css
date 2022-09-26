@@ -9,23 +9,20 @@
 }
 
 #nav{
+	display: flex;
 	background-color: black;
 	overflow: hidden; /*thằng bên trong phồng ra bao nhiêu thì nó to bấy nhiêu*/
 	font-family: utm impact;
 }
 #nav > a{
+	flex: 25%;
 	color: white;
 	padding: 14px 20px;
 	display: block; /*đưa về hàng dọc*/
 	text-align: center;
 	text-decoration: none;
 }
-#nav a.left{
-	float: left;
-}
-#nav a.right{
-	float: left;
-}
+
 #nav a:hover { 
 	background-color: #DDD;
 	color: black;
