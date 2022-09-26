@@ -24,7 +24,7 @@
 	float: left;
 }
 #nav a.right{
-	float: right;
+	float: left;
 }
 #nav a:hover { 
 	background-color: #DDD;
