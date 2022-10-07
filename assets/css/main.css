@@ -263,7 +263,7 @@ h2{
 	}
 	.ky_nang_left{
 		margin: 0px 5px 0px 10px;
-		padding: 20px 30px;
+		padding: 20px 20px;
 		border: 3px solid;
 		border-color: #6f5fdb;
 		border-radius: 20px;
@@ -272,7 +272,7 @@ h2{
 	}
 	.ky_nang_right{
 		margin: 0px 10px 0px 5px;
-		padding: 20px 30px;
+		padding: 20px 20px;
 		border: 3px solid;
 		border-color: #6f5fdb;
 		border-radius: 20px;
