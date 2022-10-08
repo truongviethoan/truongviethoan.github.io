@@ -40,6 +40,9 @@ body{
 .content{
 	padding: 0 166px;
 }
+.content >p{
+	text-align: left;
+}
 /*thông tin*/
 .doi_net{
 	padding: 0 100px;
