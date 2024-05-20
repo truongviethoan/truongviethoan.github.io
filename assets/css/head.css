@@ -67,7 +67,7 @@ a{
 }
 /*đổi màu background khi cuộn xuống*/
 .active_nav {
-	background-color: #6f5fdb;
+	background-color: #00d2ff;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
@@ -91,7 +91,7 @@ a{
 	flex: 15%;
 }
 .home_left >ul{
-	color: #6f5fdb;
+	color: #00d2ff;
 	padding: 40px 0 0 0;
 	font-size: 28px;
 }
@@ -108,7 +108,7 @@ a{
 	flex: 50%;
 }
 .svg{
-	fill: #6f5fdb;
+	fill: #00d2ff;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
