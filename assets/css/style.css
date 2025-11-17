@@ -445,7 +445,9 @@ body.nav-active { overflow: hidden; }
 /*-----------------------------------*\
   #PROJECTS
 \*-----------------------------------*/
-
+#an-project {
+    display: none;
+}
 .project { border-block: 1px solid var(--cadet-blue-crayola_a20); }
 
 .project .title-wrapper { margin-block-end: 40px; }
