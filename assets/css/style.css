@@ -167,10 +167,6 @@ body.nav-active { overflow: hidden; }
 .section { padding-block: var(--section-padding); }
 
 .w-100 { width: 100%; }
-.banner-theme-draly {
-  width: 500px !important;
-  float: right !important;
-}
 
 .h1,
 .h2,
