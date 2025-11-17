@@ -486,7 +486,7 @@ body.nav-active { overflow: hidden; }
 /*giới hạn số dòng ở card text*/
 .card-text {
   display: -webkit-box;
-  -webkit-line-clamp: 6; /* Giới hạn hiển thị 5 dòng */
+  -webkit-line-clamp: 4; /* Giới hạn hiển thị 5 dòng */
   -webkit-box-orient: vertical;
   overflow: hidden;
   position: relative;
